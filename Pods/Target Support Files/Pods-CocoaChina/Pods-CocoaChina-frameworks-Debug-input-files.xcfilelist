@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-CocoaChina/Pods-CocoaChina-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CYLTabBarController/CYLTabBarController.framework
+${PODS_ROOT}/../../cc_flutter_module/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/PINCache/PINCache.framework
+${BUILT_PRODUCTS_DIR}/PINOperation/PINOperation.framework
+${BUILT_PRODUCTS_DIR}/PINRemoteImage/PINRemoteImage.framework
+${BUILT_PRODUCTS_DIR}/Texture/AsyncDisplayKit.framework
+${PODS_ROOT}/../../cc_flutter_module/.ios/Flutter/App.framework

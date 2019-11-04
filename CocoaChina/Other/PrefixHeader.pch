@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  CocoaChina
+//
+//  Created by Apple on 2019/10/15.
+//  Copyright © 2019 wt. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+// OC
+#ifdef __OBJC__
+
+//ASDK category
+#import "ASCategory.h"
+#import <Masonry.h>
+
+#endif
+
+#endif /* PrefixHeader_pch */

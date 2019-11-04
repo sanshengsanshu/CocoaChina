@@ -1,0 +1,6 @@
+framework module Pods_CocoaChina_CocoaChinaUITests {
+  umbrella header "Pods-CocoaChina-CocoaChinaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
